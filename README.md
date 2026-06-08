@@ -87,3 +87,10 @@ These slicers allow users to interactively explore the data.
 
 ## Project Outcome
 This project demonstrates how raw transactional data can be transformed into an **interactive Business Intelligence dashboard** that supports data-driven decision making.
+
+---
+
+## Dashboard Preview
+<p align="center">
+  <img src="Sales Analytics.png" width="700">
+</p>
